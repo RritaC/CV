@@ -386,6 +386,25 @@ body {
     margin-top: 2rem;
 }
 
+.hero-download-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.download-cv-btn-secondary {
+    background: var(--gradient-1);
+    color: white;
+    border-color: transparent;
+}
+
+.download-cv-btn-secondary:hover {
+    background: linear-gradient(135deg, var(--primary-dark) 0%, var(--secondary-color) 100%);
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.35);
+}
+
 .download-cv-btn {
     display: inline-flex;
     align-items: center;
@@ -2098,7 +2117,8 @@ body {
         padding: 0.3rem 0.7rem;
     }
 
-    .hero-download {
+    .hero-download,
+    .hero-download-buttons {
         margin-top: 1.5rem;
         width: 100%;
         display: flex;
