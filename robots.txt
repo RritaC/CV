@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rritacanolli-cv.netlify.app/sitemap.xml

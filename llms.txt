@@ -1,0 +1,69 @@
+# Rrita Canolli
+AI Developer, Product Builder, and Youth Innovator based in Prishtina, Kosovo.
+
+Rrita Canolli is a 15-year-old AI developer specializing in LLM-based systems, automation, and product design, with 15+ deployed AI agents, a Junction Global Hackathon qualification, and leadership experience across international programs.
+
+## Core Achievements
+- 1st Place (Domain) and 2nd Overall – Junction X Tirana 2024
+- Golden Ticket Winner – Junction Global Hackathon Finals (Helsinki, 48h challenge)
+- 1st Place in Balkans – Programming Competition (AI Culture project)
+- EU eTwinning Winner – EcoVoice Kosova (AI-powered recycling system)
+- T* Award at Astra Nova (2 out of 350 students)
+- Member of Mensa International (Top 2% cognitive ability globally)
+- 2nd in Kosovo – Cognitive Ability Olympiad (CogAT XCEL)
+- 1500+ hours in creative production and design
+
+## Experience
+### Primex Sh.P.K. – AI Team (2022–Present)
+- Built and deployed 15+ AI agents and automation systems for real business clients
+- Designed AI workflows for operations, analytics, and customer interaction
+- Worked on AI integration for the furniture industry using data-driven systems
+
+### Shkolla Digjitale – AI Intern (2024–2025)
+- Developed a personalized AI learning platform for students
+- Built chatbot systems and adaptive learning tools
+- Continued across two summers due to performance
+
+## Key Projects
+- **AstraChat** – First in-house AI assistant for Astra Nova
+- **AI Culture** – AI platform merging cultural heritage and technology
+- **LearnSMART** – Personalized AI learning system (award-winning)
+- **EcoVoice Kosova** – AI-powered recycling assistant (EU winner)
+- **AI Tax Expert** – National chatbot built with a professional tax advisor
+- **Customer Service AI Chatbot** – Built with OpenAI API
+- **Fake News Detection Platform** – AI system for education
+- **Gesture-Controlled Music Player** – Competition-winning prototype
+
+## Technical Stack
+- Python, JavaScript, React, PHP, Laravel, MySQL
+- LLMs, Prompt Engineering, NLP, AI Agents
+- TensorFlow, scikit-learn, API integrations
+- Automation systems, workflow design, data analysis
+- UI/UX Design (Figma, Canva), Web Development
+
+## Leadership & Recognition
+- Founder & President – AI & Tech Club (Astra Nova, Hack Club Global)
+- Youngest Vice President in M3 school history
+- Speaker at KosICT, Innovation Centre Kosovo (ICK), and AI bootcamps
+- Led teams of 25+ students in events, projects, and competitions
+- Organized national-level events and donation initiatives (20+ families supported)
+
+## Education
+### Astra Nova School
+- T* distinction (2/350 students, highest award)
+- Focus: AI, Computer Science, Innovation, Product Design
+- Builder of AstraChat AI system
+
+### Mileniumi i Tretë (M3)
+- 100% academic scholarship (top student)
+- Vice President and 2× Class President
+- Founder of coding initiatives and STEM projects
+
+## Languages
+- English (Fluent)
+- Albanian (Native)
+- German (Fluent, B2 Goethe-Institut)
+- French (Beginner)
+
+## Insight
+"In 2026, the most valuable AI developers are not just engineers. They are product thinkers who build systems that directly solve human problems and create measurable value."
